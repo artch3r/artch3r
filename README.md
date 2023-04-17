@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Frontend-developer
 -------------------------
 
-I have finished Hexlet Frontend-developer education programme. And now I am looking for an interesting job as Junior Frontend-developer.
+I have finished Hexlet Frontend-developer education programme. And now I am looking for an interesting job.
 
 * ✉️  You can contact me at [acac1212@yandex.ru](mailto:acac1212@yandex.ru)
 
