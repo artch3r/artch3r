@@ -21,3 +21,5 @@ I am a graduate of the [Hexlet](https://ru.hexlet.io/) development school.
 
 
 <a href="http://www.github.com/artch3r"><img src="https://github-readme-stats.vercel.app/api?username=artch3r&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="artch3r's GitHub stats" /></a> 
+
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
