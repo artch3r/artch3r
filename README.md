@@ -1,10 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Artem Chernykh
-======================================================================================================================================
-
-Junior Frontend-developer
+Hi there! 👋 
 -------------------------
 
-I have finished Hexlet Frontend-developer education programme. And now I am looking for an interesting job.
+My name is Artem and I am Junior Frontend-developer.  
+I am a graduate of the [Hexlet](https://ru.hexlet.io/) development school.
 
 * ✉️  You can contact me at [acac1212@yandex.ru](mailto:acac1212@yandex.ru)
 
@@ -21,8 +19,5 @@ I have finished Hexlet Frontend-developer education programme. And now I am look
 </p>
 
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/artch3r"><img src="https://github-readme-stats.vercel.app/api?username=artch3r&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="artch3r's GitHub stats" /></a>
+<a href="http://www.github.com/artch3r"><img src="https://github-readme-stats.vercel.app/api?username=artch3r&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="artch3r's GitHub stats" /></a> 
