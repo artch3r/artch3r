@@ -1,5 +1,5 @@
-Hi there! 👋 I'm Artem <img src="/images/smallDeveloper.gif" height=45 /> 
--------------------------
+Hi there! 👋 I'm Artem <img src="/images/smallDeveloper.gif" height=50 /> 
+===========
 <img src="/images/developer.gif" align=right height=250 />  
 
 ### 🧑‍💻 About Me
