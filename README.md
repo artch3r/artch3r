@@ -1,8 +1,8 @@
-Hi there! 👋 I'm Artem
+Hi there! 👋 I'm Artem <img src="/images/smallDeveloper.gif" height=45 /> 
 -------------------------
 <img src="/images/developer.gif" align=right height=250 />  
 
-### About Me
+### 🧑‍💻 About Me
 
 My name is Artem Chernykh.  
 I am Junior Frontend-developer from Khabarovsk, Russia.  
@@ -11,7 +11,7 @@ I am a graduate of the [Hexlet](https://ru.hexlet.io/) development school.
 **I am currently looking for carrer opportunities as Junior Frontend-developer.**
 **My CV:** https://cv.hexlet.io/ru/resumes/1717
 
-### Contacts
+### 📲 Contacts
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acac1212@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artch3r)
@@ -19,7 +19,7 @@ I am a graduate of the [Hexlet](https://ru.hexlet.io/) development school.
 
 
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 
 
 <p align="left">
@@ -38,14 +38,14 @@ I am a graduate of the [Hexlet](https://ru.hexlet.io/) development school.
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://readme-components.vercel.app/api?component=logo&fill=whitesmoke&logo=ubuntu&svgfill=e95420&text=false" height=45 alt="Webpack" /></a>
 
 
-### My Projects
+### 💻 My Projects
 [![Hexlet-Chat Card](https://github-readme-stats.vercel.app/api/pin/?username=artch3r&repo=Hexlet-Chat&theme=react)](https://github.com/artch3r/Hexlet-Chat)
 [![RSS-Aggregator Card](https://github-readme-stats.vercel.app/api/pin/?username=artch3r&repo=RSS-Aggregator&theme=react)](https://github.com/artch3r/RSS-Aggregator)
 [![Difference-Finder Card](https://github-readme-stats.vercel.app/api/pin/?username=artch3r&repo=Difference-Finder&theme=react)](https://github.com/artch3r/Difference-Finder)
 [![Brain-Games Card](https://github-readme-stats.vercel.app/api/pin/?username=artch3r&repo=Brain-Games&theme=react)](https://github.com/artch3r/Brain-Games)
 
 
-### GitHub Stats
+### 📉 GitHub Stats
 
 <a href="http://www.github.com/artch3r">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=artch3r&theme=react&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="artch3r's GitHub stats" />
